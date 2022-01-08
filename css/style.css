@@ -1,9 +1,15 @@
-body {
-	background:url('../img/csbygb.png'); 
-	color:white; 
-    margin: 60px auto;
-    width: 70%;
+body{
+	background-image: url('../img/csbygb.png');
+
 }
+
+.generalStyle {		
+	color:rgba(255,255,255, 1);
+	margin: 60px auto;
+	width: 70%;
+		
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -16,7 +22,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: grey;
+    color: red;
 }
 a:hover {
     text-decoration: underline;
@@ -53,7 +59,9 @@ ul.posts li {
 }
 .index {
 	color: white;
-	background-color: rgba(192,192,192,0.3); /* defines opacity of background */	
+	background-color: rgba(0,0,0,1); /* defines opacity of background */	
+	margin: 60px auto;
+	padding: 15px;
 }
 /*
 .container{
@@ -61,8 +69,9 @@ ul.posts li {
 }
 */
 .post{
-	background-color: rgba(192,192,192,0.3);
-  	color:white; 
+	background-color: rgba(0,0,0,1);
+  	color:rgba(255,255,255, 1);
     margin: 60px auto;
+    padding: 15px;
     width: 70%;
 }
