@@ -46,6 +46,8 @@ ul.posts li {
 }
 .index {
 	color: white;
+	background-color: grey;
+  	opacity: 0.3;
 }
 .container{
 	color: white;
@@ -53,4 +55,7 @@ ul.posts li {
 .post{
 	background-color: grey;
   	opacity: 0.3;
+  	color:white; 
+    margin: 60px auto;
+    width: 70%;
 }
