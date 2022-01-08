@@ -16,9 +16,16 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: red;
+    color: grey;
 }
 a:hover {
+    text-decoration: underline;
+}
+a.post {
+    text-decoration: none;
+    color: red;
+}
+a.post:hover {
     text-decoration: underline;
 }
 h1 {
@@ -46,15 +53,15 @@ ul.posts li {
 }
 .index {
 	color: white;
-	background-color: grey;
-  	opacity: 0.3;
+	background-color: rgba(192,192,192,0.3); /* defines opacity of background */	
 }
+/*
 .container{
 	color: white;
 }
+*/
 .post{
-	background-color: grey;
-  	opacity: 0.3;
+	background-color: rgba(192,192,192,0.3);
   	color:white; 
     margin: 60px auto;
     width: 70%;
