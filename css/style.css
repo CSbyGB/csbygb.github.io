@@ -50,3 +50,7 @@ ul.posts li {
 .container{
 	color: white;
 }
+.post{
+	background-color: grey;
+  	opacity: 0.3;
+}
