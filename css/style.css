@@ -44,3 +44,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.index {
+	color: white;
+}
