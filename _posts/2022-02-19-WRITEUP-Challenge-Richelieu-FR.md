@@ -6,7 +6,7 @@ date: 2022-02-19
 
 # Hackeuse pour la DGSE – Challenge Richelieu
 
-*Article initialement publié le 15 juillet 2019 sur mon ancien blog*
+***Article initialement publié le 15 juillet 2019 sur mon ancien blog***  
 Afin d’étoffer ses équipes la DGSE a organisé un challenge: le Challenge Richelieu.
 Pour y accéder, il fallait se rendre sur le site https://challengecybersec.fr/ :  
 ![Page d'Accueil du Challenge](/img/accueil-richelieu.png){: width="500" }  
