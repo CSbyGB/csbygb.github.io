@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRITE UP: Challenge Richelieu - DGSE
+title: WRITE UP: Challenge Richelieu
 date: 2022-02-19
 ---
 
