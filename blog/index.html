@@ -2,6 +2,7 @@
 layout: default
 title: C.S. by G.B. - List of Articles
 ---
+<div class="index">
 <h1>{{ page.title }}</h1>
 <ul class="posts">
 
@@ -9,3 +10,4 @@ title: C.S. by G.B. - List of Articles
     <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+</div><!-- /.index -->
