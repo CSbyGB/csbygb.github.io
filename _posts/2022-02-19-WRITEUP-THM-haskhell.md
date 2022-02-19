@@ -4,7 +4,7 @@ title: WRITE UP - TryHackMe - HaskHell
 date: 2022-02-19
 ---
 
-# Writeup - TryHackMe = HaskHell
+# Writeup - TryHackMe - HaskHell
 
 **This article was initially published in my former blog on the 12th of October 2020**
 Today i am going to present the write up for [HaskHell](https://tryhackme.com/room/haskhell) on TryHackMe.
