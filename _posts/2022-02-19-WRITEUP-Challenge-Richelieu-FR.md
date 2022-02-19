@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRITE UP - Challenge Richelieu
+title: WRITE UP - Challenge Richelieu - in french only
 date: 2022-02-19
 ---
 
