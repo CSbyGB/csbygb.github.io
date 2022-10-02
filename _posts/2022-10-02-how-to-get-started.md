@@ -9,6 +9,7 @@ date: 2022-10-02
 *When people ask me about how to get into pentesting, the first i say is that practice is essential. But how to practice pentesting on your own? How to get started with virtual machines?*  
 *In this article i am going to explain, how to create a virtual attacking machine. With this machine, you will be able to practice on platforms that have « boxes ». Boxes are vulnerable machines that can be hacked. I will then present some of the website you can use for practice.*  
 *Practicing this way is very helpful because it is the closest way to understand pentest (it is not realistic but you will get the core techniques used for pentest)*
+**Note: This article was previously published in my former blog**
 
 ## How to get started ?
 
@@ -18,7 +19,7 @@ date: 2022-10-02
 2. Download Virtualbox and install it from here  
 3. Download the lastest kali linux virtualbox image (it is going to be our attacker machine) Make sure to take the virtualbox image and not the vmware one:
 
-![Kali](https://user-images.githubusercontent.com/96747355/193460692-813c9c26-8baf-41ae-8d28-2a8fc89f8e38.png)
+![Kali](https://user-images.githubusercontent.com/96747355/193460692-813c9c26-8baf-41ae-8d28-2a8fc89f8e38.png){: width="500" } 
 
 4. Install Kali:
 
@@ -26,7 +27,7 @@ date: 2022-10-02
 - Click on the yellow folder and navigate to the image of kali you downloaded, select it and click on open
 - Click on next and then click on import. It will take a little while… And then launch it for the first time. Username should be kali and password kali but you can find this info on their website or on the description of your machine in virtualbox
 
-![Import](https://user-images.githubusercontent.com/96747355/193460766-37015043-1e20-494c-8a1e-e5890319eff7.png)
+![Import](https://user-images.githubusercontent.com/96747355/193460766-37015043-1e20-494c-8a1e-e5890319eff7.png){: width="500" } 
 
 ## What website can you use?
 
