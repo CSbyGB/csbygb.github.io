@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to my new Blog
-date: 2022-01-08
+title: How to get started with pentesting
+date: 2022-10-02
 ---
 
 # How to get started with pentesting?
