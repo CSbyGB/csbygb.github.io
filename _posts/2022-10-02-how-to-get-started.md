@@ -6,10 +6,10 @@ date: 2022-10-02
 
 # How to get started with pentesting?
 
-*When people ask me about how to get into pentesting, the first i say is that practice is essential. But how to practice pentesting on your own? How to get started with virtual machines?*  
+*When people ask me about how to get into pentesting, the first I say is that practice is essential. But how to practice pentesting on your own? How to get started with virtual machines?*  
 *In this article i am going to explain, how to create a virtual attacking machine. With this machine, you will be able to practice on platforms that have « boxes ». Boxes are vulnerable machines that can be hacked. I will then present some of the website you can use for practice.*  
+*On another part I will share how to use vulnerable virtual machines and set them up in your lab*  
 *Practicing this way is very helpful because it is the closest way to understand pentest (it is not realistic but you will get the core techniques used for pentest)*  
-**Note: This article was previously published in my former blog**
 
 ## How to get started ?
 
