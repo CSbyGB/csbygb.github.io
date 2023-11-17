@@ -54,6 +54,11 @@ Here is a list of great box (all free) on tryhackmefor beginners:
 - A fun way to learn the [basics of pentesting in a christmas theme](https://tryhackme.com/room/25daysofchristmas). Stay tuned they make one every year!
 - Walkthrough on exploiting a Linux machine with [Kenobi](https://tryhackme.com/room/kenobi)
 - A [crash course](https://tryhackme.com/room/ccpentesting) on various topics in penetration testing
+- [Learn Cyber in 25 days](https://tryhackme.com/room/learncyberin25days)
+- [Advent of cyber 2019](https://tryhackme.com/room/25daysofchristmas)
+- [Advent of cyber 2021](https://tryhackme.com/room/adventofcyber3)
+- [Advent of cyber 2022](https://tryhackme.com/room/adventofcyber4)
+- [Avdent of cyber 2023](https://tryhackme.com/room/adventofcyber2023)
 
 There are plenty more, I really recommend you to have a look around.
 
