@@ -91,3 +91,51 @@ ul.posts li {
     padding: 15px;
     width: 70%;
 }
+/* --- Rend les h4 cliquables (accordéon) --- */
+h4.accordion {
+  cursor: pointer;
+  user-select: none;
+  padding: 12px 16px;
+  margin: 12px 0 0;
+  background-color: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: background-color 0.15s ease;
+}
+h4.accordion:hover {
+  background-color: #eef1f4;
+}
+
+/* Le chevron qui pivote */
+h4.accordion::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 7px solid #57606a;
+  transition: transform 0.2s ease;
+  transform: rotate(-90deg);   /* fermé par défaut */
+  flex-shrink: 0;
+}
+h4.accordion.open::before {
+  transform: rotate(0deg);     /* ouvert */
+}
+
+/* Le contenu déroulant */
+h4.accordion + ul {
+  overflow: hidden;
+  max-height: 0;
+  margin: 0;
+  padding-left: 0;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+h4.accordion.open + ul {
+  max-height: 6000px;          /* doit dépasser la hauteur de la plus longue liste */
+  padding: 12px 0 12px 24px;
+}
+
+h4.accordion a { color: inherit; }
