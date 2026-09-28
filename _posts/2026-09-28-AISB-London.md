@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AISB London 2026
-date: 2022-01-08
+date: 2026-09-28
 ---
 
 <i>The AI Security Bootcamp (AISB) is an intensive seven-day program for security professionals looking to tackle the challenges of securing frontier AI systems.  
