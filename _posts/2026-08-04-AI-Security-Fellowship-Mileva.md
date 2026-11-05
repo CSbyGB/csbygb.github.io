@@ -19,7 +19,7 @@ In this blog, I'll share what I took away.</i>
 
 {:refdef: style="text-align: center;"}
 ![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png){: width="800" }  
-*L'AI Security Fellowship de Mileva Security Labs*
+*AI Security Fellowship by Mileva Security Labs*
 {: refdef}
 
 # The program: From Threat Models to Governance
