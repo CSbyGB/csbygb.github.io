@@ -8,17 +8,18 @@ date: 2026-08-04
 
 <i>The AI Security Fellowship is a selective program by Mileva Security Labs for mid-career professionals ready to step properly into AI security and be considered for real engagements.  
 It is open to people who are at least three years into their career in security, engineering, AI, or a related discipline.  
-Mileva Security Labs works on AI security across training and consulting, and the fellowship is how it builds a vetted pool of practitioners for future engagements.
+Mileva Security Labs works on AI security across training and consulting, and the fellowship is how it builds a vetted pool of practitioners for future engagements.</i>
 
-Dr Harriet Farlow, founder of Mileva Security Labs and author of <em>Practical AI Security</em>, is behind the program.  
-Over 8 weeks, it combines the AI Security Fundamentals course, weekly live sessions, seminars, office hours with facilitators, hands-on labs, and a capstone.
+<i>Dr Harriet Farlow, founder of Mileva Security Labs and author of <em>Practical AI Security</em>, is behind the program.  
+Over 8 weeks, it combines the AI Security Fundamentals course, weekly live sessions, seminars, office hours with facilitators, hands-on labs, and a capstone.</i>
 
-I joined the June–July 2026 cohort.  
+<i>I joined the June–July 2026 cohort.  
 I had been following Harriet's work for a while, and I wanted to assess where I stood in AI security.  
 In this blog, I'll share what I took away.</i>
 
 {:refdef: style="text-align: center;"}
-![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="500" }
+![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="1000" }  
+
 *L'AI Security Fellowship de Mileva Security Labs*
 {: refdef}
 
