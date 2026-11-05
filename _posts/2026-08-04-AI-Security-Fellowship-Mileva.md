@@ -17,10 +17,10 @@ Over 8 weeks, it combines the AI Security Fundamentals course, weekly live sessi
 I had been following Harriet's work for a while, and I wanted to assess where I stood in AI security.  
 In this blog, I'll share what I took away.</i>
 
-<center>
-![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="800" }
+{:refdef: style="text-align: center;"}
+![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png){: width="800" }
 *L'AI Security Fellowship de Mileva Security Labs*
-</center>
+{: refdef}
 
 # The program: From Threat Models to Governance
 
