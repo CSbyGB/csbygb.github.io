@@ -140,3 +140,16 @@ h4.accordion.open + ul {
   max-height: 6000px;              /* > hauteur de la plus longue liste */
   padding: 12px 0 12px 24px;
 }
+/* Images : jamais plus larges que le bloc de l'article */
+.post img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Petits écrans */
+@media (max-width: 768px) {
+    .generalStyle { width: 92%; margin: 20px auto; }
+    .post { width: auto; margin: 20px 0; padding: 12px; }
+    h1 { font-size: 2em; }
+    nav ul li { display: inline-block; margin: 0 12px 8px 0; }
+}
