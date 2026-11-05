@@ -8,17 +8,17 @@ date: 2026-08-04
 
 <i>L'AI Security Fellowship est un programme sélectif conçu par Mileva Security Labs pour les professionnels en milieu de carrière qui souhaitent s'engager pleinement dans la sécurité de l'IA et être sollicités pour de véritables missions.  
 Il est ouvert aux personnes justifiant d'au moins trois ans d'expérience en sécurité, en ingénierie, en IA ou dans une discipline proche.  
-Mileva Security Labs intervient en sécurité de l'IA, aussi bien en formation qu'en conseil, et s'appuie sur ce programme pour constituer un vivier de praticiens qualifiés en vue de ses futures missions.
+Mileva Security Labs intervient en sécurité de l'IA, aussi bien en formation qu'en conseil, et s'appuie sur ce programme pour constituer un vivier de praticiens qualifiés en vue de ses futures missions.</i>
 
-À l'origine du programme, on trouve Dr Harriet Farlow, fondatrice de Mileva Security Labs et autrice de <em>Practical AI Security</em>.  
-Pendant huit semaines, le programme réunit le cours AI Security Fundamentals, des sessions hebdomadaires en direct, des séminaires, des permanences animées par des facilitateurs, des labs pratiques et un projet de fin de parcours.
+<i>À l'origine du programme, Dr Harriet Farlow, fondatrice de Mileva Security Labs et autrice de <em>Practical AI Security</em>.  
+Pendant huit semaines, le programme réunit le cours AI Security Fundamentals, des sessions hebdomadaires en direct, des séminaires, des permanences animées par des facilitateurs, des labs pratiques et un projet de fin de parcours.</i>
 
-J'ai rejoint la cohorte de juin et juillet 2026.  
+<i>J'ai rejoint la cohorte de juin et juillet 2026.  
 Je suivais le travail d'Harriet depuis un certain temps et je souhaitais évaluer où j'en étais en sécurité de l'IA.  
 Dans cet article, je reviens sur ce que j'en retire.</i>
 
 {:refdef: style="text-align: center;"}
-![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="500" }
+![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="800" }  
 *L'AI Security Fellowship de Mileva Security Labs*
 {: refdef}
 
