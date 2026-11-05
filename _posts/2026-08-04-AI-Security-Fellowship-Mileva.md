@@ -17,8 +17,10 @@ I joined the June–July 2026 cohort.
 I had been following Harriet's work for a while, and I wanted to assess where I stood in AI security.  
 In this blog, I'll share what I took away.</i>
 
-![AI Security Fellowship by Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship")  
-*The AI Security Fellowship by Mileva Security Labs*
+{:refdef: style="text-align: center;"}
+![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="500" }
+*L'AI Security Fellowship de Mileva Security Labs*
+{: refdef}
 
 # The program: From Threat Models to Governance
 
