@@ -18,7 +18,7 @@ I had been following Harriet's work for a while, and I wanted to assess where I 
 In this blog, I'll share what I took away.</i>
 
 {:refdef: style="text-align: center;"}
-![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="800" }  
+<center> ![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="800" }</center>  
 
 *L'AI Security Fellowship de Mileva Security Labs*
 {: refdef}
