@@ -19,7 +19,7 @@ Dans cet article, je reviens sur ce que j'en retire.</i>
 
 {:refdef: style="text-align: center;"}
 ![AI Security Fellowship de Mileva Security Labs](/img/mileva-fellowship.png "AI Security Fellowship"){: width="800" }  
-*L'AI Security Fellowship de Mileva Security Labs*
+*AI Security Fellowship de Mileva Security Labs*
 {: refdef}
 
 # Le programme : de la modélisation des menaces à la gouvernance
@@ -61,7 +61,7 @@ Les sessions en direct nous donnaient l'occasion de poser nos questions, de pré
 Les permanences, animées par les facilitateurs et parfois par Harriet elle-même, offraient un espace supplémentaire pour approfondir.
 
 Les séminaires accueillaient des intervenants extérieurs.  
-Mon préféré a été celui de la sixième semaine, consacré aux puissances moyennes et présenté par Chiara Gerosa [RÔLE/ORGANISATION À CONFIRMER].  
+Mon préféré a été celui de la sixième semaine, consacré aux puissances moyennes et présenté par Chiara Gerosa.  
 Sa dimension géopolitique m'a passionnée, et il m'a aidée à cartographier l'écosystème de la sécurité de l'IA à l'échelle mondiale.
 
 Le programme s'est conclu par un projet de fin de parcours : une évaluation de sécurité de Vroomi, menée avant une évolution envisagée vers un fonctionnement plus agentique et autonome.  
