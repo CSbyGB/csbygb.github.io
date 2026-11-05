@@ -61,7 +61,7 @@ During the live sessions, we could ask questions, share our work, and discuss sp
 Office hours with the facilitators, and sometimes with Harriet, added another space to go deeper.
 
 The seminars brought in guest speakers.  
-My favorite was the week 6 seminar on middle powers by Chiara Gerosa [ROLE/ORGANIZATION TO CONFIRM].  
+My favorite was the week 6 seminar on middle powers by Chiara Gerosa.  
 It was really interesting in terms of geopolitics, and it helped me map the AI security ecosystem around the world.
 
 The program ended with a capstone: an AI security assessment of Vroomi, before a proposed expansion into more agentic, autonomous behaviour.  
