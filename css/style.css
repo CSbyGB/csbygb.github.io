@@ -140,16 +140,32 @@ h4.accordion.open + ul {
   max-height: 6000px;              /* > hauteur de la plus longue liste */
   padding: 12px 0 12px 24px;
 }
-/* Images : jamais plus larges que le bloc de l'article */
-.post img {
+/* Accueil + articles : images et vidéos jamais plus larges que l'écran */
+.index img, .post img {
     max-width: 100%;
     height: auto;
+}
+.index iframe, .post iframe {
+    max-width: 100%;
+}
+iframe[src*="youtube.com"] {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+iframe[src*="docs.google.com/presentation"] {
+    width: 100%;
+    max-width: 595px;
+    height: auto;
+    aspect-ratio: 595 / 485;
 }
 
 /* Petits écrans */
 @media (max-width: 768px) {
     .generalStyle { width: 92%; margin: 20px auto; }
-    .post { width: auto; margin: 20px 0; padding: 12px; }
+    .post { width: auto; margin: 20px 0; padding: 12px; } 
+    .index { margin: 20px 0; padding: 12px; }
     h1 { font-size: 2em; }
     nav ul li { display: inline-block; margin: 0 12px 8px 0; }
 }
